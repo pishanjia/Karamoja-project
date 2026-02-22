@@ -1,2 +1,2 @@
-# Karamoja-project
-Karamoja project
+2.0 PROJECT OVERVIEW
+This present project is focused on the development of an interactive dashboard intended for viewing crop yield data relevant to the 2017 crop season in the Karamoja region. This project aims at combining data from different sources- satellite-derived measurement of crop yield in addition to population data from district to sub-county levels. Additionally, geographical information such as shape files at district and sub-county levels will also be used in mapping the two sets of data. The interactive tool will also allow stakeholders to explore data by geographic region to gain an understanding of how food security issues are spreading across the region.
